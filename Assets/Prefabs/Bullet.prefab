@@ -151,4 +151,4 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: df0797ed6805c4bd7ab618e2f1953bef, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  explosionParticle: {fileID: 5722222975362000638, guid: 53793d26e35a1451a8251d0ee031f5a5, type: 3}
+  explosionParticle: {fileID: 5644823322395863946, guid: b49469503ef8f49e5a170c4ceebef0d1, type: 3}
